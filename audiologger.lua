@@ -1,4 +1,4 @@
--- https://github.com/EdgeIY
+-- https://github.com/GhostFoxOfficial
 
 local AL = Instance.new("ScreenGui")
 local PopupFrame = Instance.new("Frame")
@@ -143,7 +143,7 @@ Title.BorderColor3 = Color3.fromRGB(27, 42, 53)
 Title.Size = UDim2.new(0, 360, 0, 20)
 Title.ZIndex = 2
 Title.Font = Enum.Font.SourceSans
-Title.Text = "Edge's Audio Logger"
+Title.Text = "Ghost Fox's Audio Logger"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 14.000
 
